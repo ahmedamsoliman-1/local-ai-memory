@@ -1,0 +1,5 @@
+watchdog
+sentence-transformers
+PyMuPDF
+python-docx
+numpy
